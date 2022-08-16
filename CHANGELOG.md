@@ -8,10 +8,6 @@ All notable changes to this project will be documented in this file.
 
 - Install rimraf as dev dependency ([c6acd37](https://github.com/HarryPotterGirlzz/Luna-Lovegood/commit/c6acd370a0e566ae0241726417ca6d8ac72f49d7))
 
-## Ci
-
-- Run ESLint instead of Super Linter ([13429cb](https://github.com/HarryPotterGirlzz/Luna-Lovegood/commit/13429cb534d5332bd67b6081120fbdf892bb71e2))
-
 # [1.0.0](https://github.com/HarryPotterGirlzz/Luna-Lovegood/tree/1.0.0) - (2022-08-16)
 
 ## Features
